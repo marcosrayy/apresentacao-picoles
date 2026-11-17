@@ -2,6 +2,8 @@
 
 Uma experiência visual interativa desenvolvida para apresentar a linha de picolés DeliGeli. O projeto combina design moderno, animações e transições suaves para destacar cada sabor de maneira dinâmica e envolvente.
 
+Acesse o site: https://apresentacao-picoles.netlify.app
+
 ##  Sabores
 
 - 🫐 Amora
